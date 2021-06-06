@@ -1,2 +1,3 @@
-# api-rt2Games
-api-rt2Games
+# Strapi application
+
+A quick description of your strapi application
